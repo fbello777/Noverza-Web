@@ -10,3 +10,4 @@ NOVERZA WEB - LISTO PARA VERCEL
 
 Contacto configurado: atc@noverza.mx
 Dominio previsto: noverza.mx
+Sitio oficial de NOVERZA.
