@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NOVERZA | Servicios Integrales</title>
+  <meta name="description" content="NOVERZA integra limpieza, jardinería, fumigación y mantenimiento bajo una sola operación profesional.">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="#inicio" aria-label="NOVERZA inicio"><img src="assets/logo.svg" alt="NOVERZA Servicios Integrales"></a>
+      <button class="menu-button" aria-expanded="false" aria-controls="main-nav">Menú</button>
+      <nav id="main-nav" class="main-nav" aria-label="Navegación principal">
+        <a href="#nosotros">Nosotros</a>
+        <a href="#servicios">Servicios</a>
+        <a href="#metodo">Cómo trabajamos</a>
+        <a href="#contacto" class="nav-cta">Solicitar propuesta</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="inicio" class="hero">
+      <div class="hero-overlay"></div>
+      <div class="container hero-content">
+        <span class="eyebrow">Servicios integrales para empresas</span>
+        <h1>Un solo equipo.<br>Cuatro soluciones.</h1>
+        <p>Coordinamos limpieza, jardinería, fumigación y mantenimiento con una operación clara, cercana y medible.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#contacto">Solicitar diagnóstico</a>
+          <a class="button secondary" href="#servicios">Conocer servicios</a>
+        </div>
+        <div class="hero-points" aria-label="Ventajas principales">
+          <span>Personal preparado</span><span>Supervisión visible</span><span>Respuesta oportuna</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="nosotros" class="section intro">
+      <div class="container split">
+        <div>
+          <span class="eyebrow dark">Quiénes somos</span>
+          <h2>Cuidamos los espacios que sostienen tu operación.</h2>
+        </div>
+        <div class="intro-copy">
+          <p>NOVERZA integra servicios esenciales bajo una misma forma de trabajar. Diseñamos cada operación según el inmueble, sus horarios, riesgos y prioridades.</p>
+          <div class="stats">
+            <div><strong>4</strong><span>divisiones especializadas</span></div>
+            <div><strong>1</strong><span>responsable de atención</span></div>
+            <div><strong>100%</strong><span>alcance adaptable</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="servicios" class="section services-section">
+      <div class="container">
+        <div class="section-heading">
+          <span class="eyebrow dark">Nuestras divisiones</span>
+          <h2>Soluciones coordinadas para cada espacio.</h2>
+          <p>El alcance, las frecuencias, los materiales y el personal se dimensionan después de conocer tu operación.</p>
+        </div>
+        <div class="service-grid">
+          <article class="service-card limpieza">
+            <img class="service-photo" src="assets/limpieza.png" alt="Servicio profesional de limpieza en oficina">
+            <div class="service-body"><img class="service-icon" src="assets/icono-limpieza.svg" alt=""><h3>Limpieza</h3><p>Oficinas, áreas comunes, sanitarios, comedores, pisos, alfombras y superficies especiales.</p><ul><li>Limpieza diaria y profunda</li><li>Control de químicos y consumibles</li><li>Turnos y frecuencias adaptables</li></ul></div>
+          </article>
+          <article class="service-card jardineria">
+            <img class="service-photo" src="assets/jardineria.png" alt="Servicio profesional de jardinería">
+            <div class="service-body"><img class="service-icon" src="assets/icono-jardineria.svg" alt=""><h3>Jardinería</h3><p>Cuidado de jardines, jardineras y áreas exteriores con programas preventivos y estacionales.</p><ul><li>Poda, perfilado y deshierbe</li><li>Fertilización y cuidado estacional</li><li>Revisión básica de riego</li></ul></div>
+          </article>
+          <article class="service-card fumigacion">
+            <img class="service-photo" src="assets/fumigacion.png" alt="Inspección profesional de control de plagas">
+            <div class="service-body"><img class="service-icon" src="assets/icono-fumigacion.svg" alt=""><h3>Fumigación</h3><p>Prevención y control de plagas con diagnóstico, evidencia, bitácoras y seguimiento.</p><ul><li>Inspección de puntos críticos</li><li>Programas preventivos y correctivos</li><li>Monitoreo y documentación</li></ul></div>
+          </article>
+          <article class="service-card mantenimiento">
+            <img class="service-photo" src="assets/mantenimiento.png" alt="Mantenimiento preventivo en oficina">
+            <div class="service-body"><img class="service-icon" src="assets/icono-mantenimiento.svg" alt=""><h3>Mantenimiento</h3><p>Atención preventiva y correctiva menor para conservar instalaciones funcionales.</p><ul><li>Electricidad, plomería y pintura</li><li>Reparaciones e incidencias</li><li>Programas de conservación</li></ul></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="metodo" class="section method-section">
+      <div class="container">
+        <div class="section-heading light">
+          <span class="eyebrow">Cómo trabajamos</span>
+          <h2>El servicio se diseña antes de comenzar.</h2>
+        </div>
+        <div class="steps">
+          <div class="step"><span>01</span><h3>Levantamiento</h3><p>Espacios, horarios, actividades, riesgos y accesos.</p></div>
+          <div class="step"><span>02</span><h3>Diseño</h3><p>Personal, frecuencias, equipos, productos y responsables.</p></div>
+          <div class="step"><span>03</span><h3>Preparación</h3><p>Selección, inducción, rutas, materiales y documentación.</p></div>
+          <div class="step"><span>04</span><h3>Arranque</h3><p>Inicio controlado, medición, ajustes y seguimiento.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section sectors">
+      <div class="container split">
+        <div><span class="eyebrow dark">Soluciones adaptables</span><h2>Una operación preparada para distintos entornos.</h2></div>
+        <div class="sector-grid"><span>Corporativos y oficinas</span><span>Comercio y atención al público</span><span>Industria y logística</span><span>Condominios y áreas comunes</span></div>
+      </div>
+    </section>
+
+    <section id="contacto" class="section contact-section">
+      <div class="container contact-card">
+        <div>
+          <span class="eyebrow">Construyamos una operación mejor</span>
+          <h2>Cuéntanos qué necesita tu espacio.</h2>
+          <p>Analizaremos el inmueble, el alcance y tus prioridades para preparar una propuesta clara.</p>
+        </div>
+        <div class="contact-actions">
+          <a class="button gold" href="mailto:atc@noverza.mx?subject=Solicitud%20de%20propuesta%20NOVERZA">atc@noverza.mx</a>
+          <a class="text-link" href="https://www.noverza.mx">www.noverza.mx</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap"><img src="assets/logo.svg" alt="NOVERZA Servicios Integrales"><p>© <span id="year"></span> NOVERZA. Todos los derechos reservados.</p></div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
