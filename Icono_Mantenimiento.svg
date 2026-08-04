@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Noverza - icono de Mantenimiento</title>
+  <desc id="desc">Logotipo vectorial oficial de Noverza Servicios Integrales.</desc>
+  <g id="icono-mantenimiento" inkscape:label="Icono Mantenimiento">
+<circle cx="50" cy="50" r="48" fill="#D39A32"/>
+<polygon points="50.00,21.00 57.61,11.75 64.92,13.97 66.11,25.89 70.51,29.49 82.43,28.33 86.03,35.08 78.44,44.34 79.00,50.00 88.25,57.61 86.03,64.92 74.11,66.11 70.51,70.51 71.67,82.43 64.92,86.03 55.66,78.44 50.00,79.00 42.39,88.25 35.08,86.03 33.89,74.11 29.49,70.51 17.57,71.67 13.97,64.92 21.56,55.66 21.00,50.00 11.75,42.39 13.97,35.08 25.89,33.89 29.49,29.49 28.33,17.57 35.08,13.97 44.34,21.56" fill="#FFFFFF"/>
+<circle cx="50" cy="50" r="15" fill="#D39A32"/>
+
+  </g>
+</svg>

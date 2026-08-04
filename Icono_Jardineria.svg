@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Noverza - icono de Jardinería</title>
+  <desc id="desc">Logotipo vectorial oficial de Noverza Servicios Integrales.</desc>
+  <g id="icono-jardineria" inkscape:label="Icono Jardinería">
+<circle cx="50" cy="50" r="48" fill="#4EBB57"/>
+<path d="M 28 70 C 30 42 47 24 76 22 C 73 51 56 70 28 70 Z" fill="#FFFFFF"/>
+<path d="M 29 70 C 42 56 55 44 72 27" fill="none" stroke="#4EBB57" stroke-width="4" stroke-linecap="round"/>
+<path d="M 45 52 C 38 49 34 44 32 37 M 55 43 C 62 41 67 37 72 31" fill="none" stroke="#4EBB57" stroke-width="3" stroke-linecap="round"/>
+
+  </g>
+</svg>

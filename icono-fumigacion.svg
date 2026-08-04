@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Noverza - icono de Fumigación</title>
+  <desc id="desc">Logotipo vectorial oficial de Noverza Servicios Integrales.</desc>
+  <g id="icono-fumigacion" inkscape:label="Icono Fumigación">
+<path d="M 50 3 L 91 18 L 91 50 C 91 74 75 91 50 98 C 25 91 9 74 9 50 L 9 18 Z" fill="#C7654E"/>
+<path d="M 50 16 L 78 26 L 78 49 C 78 66 67 78 50 84 C 33 78 22 66 22 49 L 22 26 Z" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="50" cy="50" rx="8" ry="14" fill="#FFFFFF"/>
+<circle cx="50" cy="34" r="5" fill="#FFFFFF"/>
+<path d="M 42 42 L 34 35 M 42 49 L 31 49 M 42 57 L 34 64 M 58 42 L 66 35 M 58 49 L 69 49 M 58 57 L 66 64 M 47 30 L 42 24 M 53 30 L 58 24" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+  </g>
+</svg>
